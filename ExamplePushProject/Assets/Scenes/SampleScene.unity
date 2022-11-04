@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 17711537}
   - component: {fileID: 17711536}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: "k\xFCpoli"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
